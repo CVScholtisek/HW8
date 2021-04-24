@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Clinterpottrmus/CLionProjects/HW8/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+cmath
+-
+vector
+-
+d2d1.h
+-
+
